@@ -1,0 +1,5 @@
+https://github.com/bigardone/phoenix-trello
+
+https://bigardone.dev/blog/2016/01/11/trello-tribute-with-phoenix-and-react-pt-2
+
+https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file
